@@ -1,0 +1,36 @@
+#todo_date {
+    cursor: pointer;
+}
+.completed-todo {
+    text-decoration: line-through;
+    font-style: italic;
+    background: #eee;
+}
+#todo, #u_todo {
+    resize: vertical;
+}
+.display {
+    display: none;
+}
+.open #dropdownMenu1 {
+    color: #fff;
+}
+.btns-cell {
+    text-align: center;
+}
+.filter-icon {
+    display: none;
+}
+.filter-first {
+    display: inline;
+}
+.ui-datepicker {
+    z-index: 9999 !important;
+}
+.todo-date:hover, .todo-completed-date:hover {
+    cursor: pointer;
+    background: #eee;
+}
+body {
+    background: #eee;
+}
