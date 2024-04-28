@@ -34,8 +34,6 @@ Some things to be noted: Completed Date is when you mark a todo as completed. On
 
 All in all, the app has some room for adjustments here and there which I may do in the future or you can take the app to the next level. 
 
-Created by: https://andrejphp.is/ 
-
 Web app screenshots:
 
 ![Screenshot](https://i.imgur.com/GbEUOjS.png)
